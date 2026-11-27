@@ -20,4 +20,4 @@ I'm a computer engineering student at Kasetsart University 🇹🇭, and I love 
 
 ### 📫 Say hi
 
-📧 jirattakan48@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) <!-- change to your URL -->
+📧 jirattakan48@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/jirattakan-junhor/)
