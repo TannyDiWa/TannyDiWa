@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there 👋 I'm Tan
 
-<!--
-**TannyDiWa/TannyDiWa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student at Kasetsart University 🇹🇭, and I love figuring out how data moves and how machines learn. I'm into data pipelines, reinforcement learning, web apps and tinkering with Raspberry Pi gadgets.
 
-Here are some ideas to get you started:
+- 🔭 Lately I've been into **data engineering** and **ML/AI**
+- 🎯 Looking for a **Data Engineer / ML Engineer internship** for **Apr – Jun 2027**
+- 📌 Check out my pinned repos below 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech I use
+
+**Languages:** Python · TypeScript · JavaScript · SQL · C/C++ · and more
+**Web:** Next.js · React · Tailwind CSS · FastAPI · and more
+**Data & ML:** PyTorch · PostgreSQL · MySQL · MongoDB · SQLite · and more
+**DevOps:** Docker · GitHub Actions · Vercel · Linux
+**Hardware:** Raspberry Pi · LoRa · GPS 
+
+---
+
+### 📫 Say hi
+
+📧 jirattakan48@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) <!-- change to your URL -->
