@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Tan
+### Hey there 👋 I'm TannyDiWa
 
 I'm a computer engineering student at Kasetsart University 🇹🇭, and I love figuring out how data moves and how machines learn. I'm into data pipelines, reinforcement learning, web apps and tinkering with Raspberry Pi gadgets.
 
